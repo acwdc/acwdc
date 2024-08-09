@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm ac</h1>
-<h3 align="center">A passionate ? developer from ?</h3>
+<h3 align="center">A passionate developer, who likes to explore, many things ?</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acwdc&label=Profile%20views&color=0e75b6&style=flat" alt="acwdc" /> </p>
 
 - 🔭 What are you doing right now? **nothing. just hanging around**
 
-- 📫 How to reach me **no need for that, but if needed via github**
+- 📫 How to reach me **if needed, via github**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
