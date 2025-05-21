@@ -3,9 +3,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=acwdc&label=Profile%20views&color=0e75b6&style=flat" alt="acwdc" /> 
 </p>
 
-<h2 align="center" style="font-size: 10px;">**nothing. just hanging around**</h2>
+<h6 align="center">**nothing. just hanging around**</h6>
 
-<h2 align="center" style="font-size: 20px;"><b>Languages and Tools:</b></h2>
+<h3 align="center">Languages and Tools:</h3>
 <br> 
 <p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -17,6 +17,9 @@
 <br> 
 <p align="center">
   <small>
+    <b>en</b>
+    <b>de</b>
+    <b>tr</b>
   <a href="https://en.wikipedia.org/wiki/English_language" target="_blank" rel="noopener noreferrer">en</a>
   <a href="https://de.wikipedia.org/wiki/Deutsche_Sprache" target="_blank" rel="noopener noreferrer">de</a>
   <a href="https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e" target="_blank" rel="noopener noreferrer">tr</a>
