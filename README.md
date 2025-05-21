@@ -17,12 +17,13 @@
 <br> 
 <p align="center">
   <small>
-    <b>EN</b>
-    <b>DE</b>
-    <b>TR</b>
+    <b>en</b>
+    <b>de</b>
+    <b>tr</b>
   </small>
 </p>
 
+<br> 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=acwdc&show_icons=true&locale=en" alt="acwdc" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=acwdc&" alt="acwdc" /></p>
