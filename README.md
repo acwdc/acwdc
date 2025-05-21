@@ -17,9 +17,9 @@
 <br> 
 <p align="center">
   <small>
-    <b>en</b>
-    <b>de</b>
-    <b>tr</b>
+  <a href="https://en.wikipedia.org/wiki/English_language" target="_blank" rel="noopener noreferrer">en</a>
+  <a href="https://de.wikipedia.org/wiki/Deutsche_Sprache" target="_blank" rel="noopener noreferrer">de</a>
+  <a href="https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e" target="_blank" rel="noopener noreferrer">tr</a>
   </small>
 </p>
 
