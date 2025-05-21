@@ -3,9 +3,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=acwdc&label=Profile%20views&color=0e75b6&style=flat" alt="acwdc" /> 
 </p>
 
-<h6 align="center">**nothing. just hanging around**</h6>
+<h2 align="center" style="font-size: 12px;">**nothing. just hanging around**</h2>
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center" style="font-size: 24px;"><b>Languages and Tools:</b></h2>
 <br> 
 <p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
